@@ -1,3 +1,3 @@
 # Project_BoltCooking_2022
  
-/*Hello World*/
+Prototype of a cooking simulator made with the visual scripting of Bolt in Unity.
