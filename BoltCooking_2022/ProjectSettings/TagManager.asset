@@ -9,6 +9,7 @@ TagManager:
   - Connector
   - Fruit
   - FruitSubgroup
+  - Temp
   layers:
   - Default
   - TransparentFX
